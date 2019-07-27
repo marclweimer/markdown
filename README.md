@@ -2,7 +2,7 @@
 Fintech case study markdown practice
 
 # Case Study: Kiva Microlending #
-![Picture](https://en.wikipedia.org/wiki/Kiva_(organization)#/media/File:Kiva.org_logo_2016.svg)
+![Picture](https://smallbiztrends.com/wp-content/uploads/2017/05/kiva-numbers.png)
 
 ## What does Kiva do? ##
 
