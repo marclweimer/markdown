@@ -2,7 +2,26 @@
 Fintech case study markdown practice
 
 # Case Study: Kiva Microlending #
-![https://en.wikipedia.org/wiki/Kiva_(organization)#/media/File:Kiva.org_logo_2016.svg]
+![Picture](https://en.wikipedia.org/wiki/Kiva_(organization)#/media/File:Kiva.org_logo_2016.svg)
+
+## What does Kiva do? ##
+
+Kiva is a non-profit Organization that allows people to lend momey via the internet to low-income parties 
+
+**Contributors:** Cristian Smoger and Mark Weimer
+
+### Hows does Kiva work? ###
+
+* What is the background of your company? What do they do? Who are their competitors?
+
+* How does this company use technology to their advantage? Why are they considered a FinTech company?
+
+* Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
+
+* What is the prognosis for this company? Where do they expect to be in the future?
+
+
+
 
 
 
